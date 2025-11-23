@@ -22,10 +22,10 @@ A real-time face recognition attendance system built with Python, OpenCV, and fa
 ## Topics
 
 - **face-recognition**
-- **opencv**, 
-- **python**, 
-- **attendance-system**,
-- **computer-vision**, 
+- **opencv**  
+- **python** 
+- **attendance-system**
+- **computer-vision** 
 - **machine-learning**
 
 
