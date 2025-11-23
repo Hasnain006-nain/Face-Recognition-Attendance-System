@@ -17,9 +17,16 @@ A real-time face recognition attendance system built with Python, OpenCV, and fa
 - **Visual Feedback**: Displays bounding boxes and names on detected faces
 - **Terminal Logging**: Real-time console output of detected faces
 
+  
+
 ## Topics
 
-**face-recognition**, **opencv**, **python**, **attendance-system**, **computer-vision**, **machine-learning**
+- **face-recognition**
+- **opencv**, 
+- **python**, 
+- **attendance-system**,
+- **computer-vision**, 
+- **machine-learning**
 
 
 ## 📋 Table of Contents
