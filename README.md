@@ -6,7 +6,7 @@ A real-time face recognition attendance system built with Python, OpenCV, and fa
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## ✨ Features
+## ✨ FeatureS
 
 - **Real-time Face Detection**: Detects faces from live webcam feed
 - **Face Recognition**: Identifies registered individuals with confidence scores
